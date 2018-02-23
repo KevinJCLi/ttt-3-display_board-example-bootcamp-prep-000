@@ -6,5 +6,5 @@ def display_board
   puts "-----------"
   puts "#{tic_or_tac[3]}|#{tic_or_tac[4]}|#{tic_or_tac[5]}"
   puts "-----------"
-  puts "#{tic_or_tac[6]}|#{tic_or_tac[7]}|#{tic_or_tac[8]}"
+  print "#{tic_or_tac[6]}|#{tic_or_tac[7]}|#{tic_or_tac[8]}"
 end
